@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika4515&label=Profile%20views&color=0e75b6&style=flat" alt="anshika4515" /> </p>
 - :speech_bubble: Ask me about **React, Java, JavaScript **
-- :mailbox: How to reach me **anshikaverma4515@gmail.com**
+- :mailbox: How to reach me **princegupta9041@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prince-gupta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-verma-406068232" height="30" width="40" /></a>
