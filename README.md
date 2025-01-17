@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princegupta04&label=Profile%20views&color=0e75b6&style=flat" alt="anshika4515" /> </p>
 -:speech_bubble: Ask me about **React, Java, JavaScript ,PHP , Laravel **
 <br/>
-- :mailbox: How to reach me **anshikaverma4515@gmail.com**
+- :mailbox: How to reach me **princegupta9041@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prince-gupta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-verma-406068232" height="30" width="40" /></a>
